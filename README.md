@@ -28,7 +28,7 @@ _Software developer with a background in product management_
 
 I am an experienced digital technology professional, adept at bridging technical expertise, commercial insight, and strategic skills to solve complex challenges and build impactful B2B/B2C/B2B2C products. 
 
-I have recently fallen back in love with solving challenges with code and I am on the lookout for full-stack engineering roles, especially those with a front-end focus where I can put my product and UX skills to work to solve complex user and business challenges through code and create exceptional web user experiences, drive innovation, and deliver customer value.
+I have recently fallen back in love with solving challenges with code and I am on the lookout for full-stack engineering roles, especially those with a front-end focus where I can put my product and UX skills to work to solve complex user and business challenges and create exceptional web user experiences, drive innovation, and deliver customer value.
 
 
  ### 🌎  Other places to find me:
