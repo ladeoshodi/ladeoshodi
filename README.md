@@ -1,6 +1,6 @@
 
-
-## Hi, I'm Lade 👋🏾 👨🏾‍💻
+![Profile Views](https://komarev.com/ghpvc/?username=ladeoshodi&color=blueviolet&style=for-the-badge&abbreviated=true)
+## Hi, I'm Lade 👋🏾 👨🏾‍💻 
 _Software developer with a background in product management_
 
 ![profile banner](https://github.com/user-attachments/assets/1ae55369-b6ce-4e77-aa72-53e16becb37c)
