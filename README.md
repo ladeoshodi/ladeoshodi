@@ -9,6 +9,7 @@ _Software developer with a background in product management_
 ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=html5) 
 ![Static Badge](https://img.shields.io/badge/CSS3-black?logo=css3)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/BulmaCSS-black?logo=bulma)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/NodeJS-black?logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
